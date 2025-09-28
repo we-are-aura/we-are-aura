@@ -10,6 +10,8 @@
 /node_modules
 npm-debug.log
 yarn-error.log
+yarn-debug.log*
+pnpm-debug.log*
 
 # IDEs and editors
 .idea/
@@ -41,3 +43,8 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Ambiente local / configs sensíveis
+*.env
+*.local
+.env.*.local

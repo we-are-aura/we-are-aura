@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🌐 AURA Landing
 
-<!--
-**we-are-aura/We-are-aura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Landing page oficial da **AURA – Atmosfera Urbana para Resiliência Analítica**, desenvolvida em **Angular 20**, publicada via **GitHub Pages**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre o projeto
+
+Esta landing apresenta a visão, os valores e os projetos da **AURA**, servindo como vitrine pública da marca.  
+Aqui você encontrará informações sobre:  
+- AURA Demo (projeto público)  
+- AURA Platform (privada e robusta)  
+- Documentação e próximos passos da iniciativa  
+
+---
+
+## 🛠️ Tecnologias
+
+- [Angular 20](https://angular.dev/) – Framework frontend  
+- [GitHub Pages](https://pages.github.com/) – Deploy estático  
+- [GitHub Actions](https://docs.github.com/actions) – CI/CD
+
+---
+
+## ▶️ Executando localmente
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/we-are-aura/aura-landing.git
+cd aura-landing
+npm install
+npm start
